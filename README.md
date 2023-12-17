@@ -1,4 +1,4 @@
-# core-periphery-analysis
+# Core-periphery-analysis
 Core periphery analysis project for the SNACS course
 
 The analysis folder contains the python files we used for analysis, as well as the Json files that were created with the code.
